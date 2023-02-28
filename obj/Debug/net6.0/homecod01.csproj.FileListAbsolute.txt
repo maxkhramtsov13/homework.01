@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\Newcod\homecod01\bin\Debug\net6.0\homecod01.exe
+C:\Users\Professional\Desktop\Newcod\homecod01\bin\Debug\net6.0\homecod01.deps.json
+C:\Users\Professional\Desktop\Newcod\homecod01\bin\Debug\net6.0\homecod01.runtimeconfig.json
+C:\Users\Professional\Desktop\Newcod\homecod01\bin\Debug\net6.0\homecod01.dll
+C:\Users\Professional\Desktop\Newcod\homecod01\bin\Debug\net6.0\homecod01.pdb
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.dll
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\refint\homecod01.dll
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.pdb
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\homecod01.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Newcod\homecod01\obj\Debug\net6.0\ref\homecod01.dll
